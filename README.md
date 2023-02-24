@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I have a passion for everything data, extracting, transforming, loading, making vizualitions, you name it! When I'm not coding, you can usually find me hiking, running or traveling. Im a huge fan of traveling to places that are the most different from where I currently am whether it be culturally or climatically. The change makes life exciting! This attitude brough me to some incredible places but I now call Portland, OR home where im looking to further enhance and develop my coding skills!
+ I'm passionate about all things data. From extracting and transforming to loading and visualizing, you name it, I love it! When I'm not coding, I enjoy exploring the great outdoors, whether it's hiking, running, or traveling to new and exciting destinations. I have a particular fascination with places that are vastly different from my current environment, both culturally and climatically. I find that the change adds an extra level of excitement to life!
 
-Please check out some of the projects ive worked on below!
+This mindset has led me to some incredible places, but I now call Portland, OR home where I'm focused on enhancing and developing my coding skills. Check out some of the projects I've worked on below! If you have any questions or just want to chat, feel free to reach out to me at reedandrew18@gmail.com or via linkedIn [here](https://www.linkedin.com/in/reed-carter/).
