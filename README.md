@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, Reed here👋
 
 <!--
 **Reed-Carter/Reed-Carter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I have a passion for everything data, extracting, transforming, loading, making vizualitions, you name it! When I'm not coding, you can usually find me hiking, running or traveling. Im a huge fan of traveling to places that are the most different from where I currently am whether it be culturally or climatically. The change makes life exciting! This attitude brough me to some incredible places but I now call Portland, OR home where im looking to further enhance and develop my coding skills!
+
+I'm always looking for new and exciting projects to work on, and I'm excited to collaborate with other developers and creatives to bring those projects to life. If you have a project you'd like to work on, or just want to chat about coding, travel, or life in general, feel free to reach out to me at [your email address or social media handle]!
